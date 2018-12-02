@@ -1,5 +1,7 @@
 # COSMOS-DesignProject
 
+![ncstate-type-2x2-red-max](./ncstate-type-2x2-red-max.png)
+
 ## Introduction
 
 Internet of Things (IoT) is a burgeoning field which is the next big thing in the world of automation. IoT devices usually have a universal application as they are not constrained to any one particular domain. With more advances in technology and the impact it can have on our daily lives, IoT can have various applications in our home that allow improving the way we live and carry out our daily chores. Smart homes are no longer an unexplored territory, and new devices are being invented to make our lives easy and make us feel secure. However, it has been known how expensive these individual devices tend to get. A single household has multiple lamps, and the cost tends to exponentially increase while the willingness to pay for each bulb by the consumers tends to decrease with increment in the number of devices being bought.
